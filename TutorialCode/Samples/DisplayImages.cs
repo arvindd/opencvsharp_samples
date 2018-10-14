@@ -5,6 +5,12 @@ using OpenCvSharp;
 
 namespace TutorialCode
 {
+    /// <summary>
+    /// Load and display images
+    /// <para>
+    /// https://docs.opencv.org/master/db/deb/tutorial_display_image.html
+    /// </para>
+    /// </summary>
     class DisplayImages : ISample
     {
         public void Run(string[] args, string tutRoot)
