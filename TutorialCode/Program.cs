@@ -18,7 +18,8 @@ namespace TutorialCode
             // Now, run the samples. Uncomment the sample to be run.
             ISample sample =
                 // new DisplayImages();
-                new LoadModifySave();
+                // new LoadModifySave();
+                new HowToScanImages();
 
             sample.Run(args, tutRoot);
         }
